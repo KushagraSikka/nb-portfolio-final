@@ -2057,3 +2057,143 @@ body[data-theme="dark"] .highlight-green {
   font-size: 0.8rem;
   opacity: 0.5;
 }
+
+/* ── Neo Brutalist Terminal Block ── */
+.terminal-block {
+  background: #1e1e2e;
+  border: 3px solid var(--border);
+  box-shadow: 8px 8px 0 var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+  margin-top: 2rem;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.terminal-header {
+  background: #313244;
+  padding: 0.75rem 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  border-bottom: 2px solid var(--border);
+}
+.terminal-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: 2px solid rgba(0,0,0,0.3);
+}
+.terminal-dot.red { background: #ff5f56; }
+.terminal-dot.yellow { background: #ffbd2e; }
+.terminal-dot.green { background: #27c93f; }
+.terminal-title {
+  color: #cdd6f4;
+  font-family: "Space Mono", monospace;
+  font-size: 0.85rem;
+  opacity: 0.7;
+  margin-left: 0.5rem;
+}
+.terminal-body {
+  padding: 1.25rem;
+  font-family: "Space Mono", monospace;
+  font-size: 0.85rem;
+  color: #cdd6f4;
+  line-height: 1.8;
+  min-height: 200px;
+}
+.terminal-line {
+  margin-bottom: 0.25rem;
+}
+.terminal-prompt {
+  color: #a8e6cf;
+}
+.terminal-command {
+  color: #66d9ef;
+}
+.terminal-output {
+  color: #cdd6f4;
+  padding-left: 0.5rem;
+}
+.terminal-highlight {
+  color: #ffd93d;
+  font-weight: 700;
+}
+.terminal-accent {
+  color: #ff6b9d;
+  font-weight: 700;
+}
+.terminal-info {
+  color: #6c7086;
+}
+.terminal-cursor {
+  display: inline-block;
+  width: 8px;
+  height: 1.1em;
+  background: #a8e6cf;
+  animation: blink 1s step-end infinite;
+  vertical-align: text-bottom;
+}
+
+/* ── Neo Brutalist Skills Grid ── */
+.skills-grid-modern {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+.skills-grid-modern .skill-box {
+  background: var(--white);
+  border: 3px solid var(--border);
+  box-shadow: 6px 6px 0 var(--border);
+  padding: 2rem;
+  transition: all 0.3s ease;
+}
+.skills-grid-modern .skill-box:hover {
+  transform: translate(6px, 6px);
+  box-shadow: 0 0 0 var(--border);
+}
+.skills-grid-modern .skill-box.highlight-box {
+  background: #a8e6cf;
+}
+.skills-grid-modern .skill-box-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 1rem;
+  border-bottom: 3px solid var(--border);
+}
+.skills-grid-modern .skill-icon-large {
+  font-size: 2rem;
+  color: var(--cyan);
+}
+.skills-grid-modern .skill-box-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.tech-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+.tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.8rem;
+  background: var(--bg);
+  border: 2px solid var(--border);
+  font-size: 0.85rem;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+.tag:hover {
+  background: var(--yellow);
+  transform: translateY(-2px);
+}
+.tag i {
+  font-size: 0.9rem;
+  color: var(--cyan);
+}
