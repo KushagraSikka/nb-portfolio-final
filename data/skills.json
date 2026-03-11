@@ -5,120 +5,48 @@
       "name": "Languages",
       "icon": "fas fa-code",
       "items": [
-        {
-          "name": "Python",
-          "icon": "fab fa-python"
-        },
-        {
-          "name": "R",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "SQL",
-          "icon": "fas fa-database"
-        }
+        { "name": "Python", "icon": "fab fa-python" },
+        { "name": "R", "icon": "fas fa-chart-line" },
+        { "name": "SQL", "icon": "fas fa-database" }
       ]
     },
     {
       "name": "Frameworks & Libraries",
       "icon": "fas fa-layer-group",
       "items": [
-        {
-          "name": "Pandas",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "NumPy",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "ggplot2",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "ggmap",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "leaflet",
-          "icon": "fas fa-code"
-        }
+        { "name": "Pandas", "icon": "fas fa-table" },
+        { "name": "NumPy", "icon": "fas fa-calculator" },
+        { "name": "ggplot2", "icon": "fas fa-chart-area" },
+        { "name": "ggmap", "icon": "fas fa-chart-area" },
+        { "name": "leaflet", "icon": "fas fa-map-marked-alt" }
       ]
     },
     {
       "name": "Tools & Platforms",
       "icon": "fas fa-tools",
       "items": [
-        {
-          "name": "Excel",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "Tableau",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "Power BI",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "RStudio",
-          "icon": "fas fa-code"
-        }
+        { "name": "Excel", "icon": "fas fa-file-excel" },
+        { "name": "Tableau", "icon": "fas fa-chart-pie" },
+        { "name": "Power BI", "icon": "fas fa-chart-bar" },
+        { "name": "RStudio", "icon": "fas fa-chart-line" }
       ]
     },
     {
       "name": "Technical Skills",
       "icon": "fas fa-cogs",
       "items": [
-        {
-          "name": "Data Analysis",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "Statistical Modeling",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "Data Mining",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "Data Wrangling",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "SQL Management",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "Data Visualization",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "Dashboarding",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "Problem-Solving",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "Analytical Thinking",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "Time Management",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "Collaboration",
-          "icon": "fas fa-code"
-        },
-        {
-          "name": "Attention to Detail",
-          "icon": "fas fa-code"
-        }
+        { "name": "Data Analysis", "icon": "fas fa-chart-line" },
+        { "name": "Statistical Modeling", "icon": "fas fa-square-root-alt" },
+        { "name": "Data Mining", "icon": "fas fa-search" },
+        { "name": "Data Wrangling", "icon": "fas fa-random" },
+        { "name": "SQL Management", "icon": "fas fa-database" },
+        { "name": "Data Visualization", "icon": "fas fa-chart-area" },
+        { "name": "Dashboarding", "icon": "fas fa-tachometer-alt" },
+        { "name": "Problem-Solving", "icon": "fas fa-lightbulb" },
+        { "name": "Analytical Thinking", "icon": "fas fa-brain" },
+        { "name": "Time Management", "icon": "fas fa-clock" },
+        { "name": "Collaboration", "icon": "fas fa-users" },
+        { "name": "Attention to Detail", "icon": "fas fa-eye" }
       ]
     }
   ]
