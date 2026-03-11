@@ -1,0 +1,128 @@
+{
+  "greeting": "Hi there!",
+  "name": "POOJA PATEL",
+  "description": "Based in St. Louis, MO. Data Science graduate with a strong background in statistical analysis, predictive modeling, and data visualization. Proficient in Python, R, SQL, Tableau, Power BI, and dashboard development, with hands-on experience analyzing large datasets, automating workflows, and improving decision-making in finance, cybersecurity, and business operations.",
+  "tagline": "Data Science Graduate",
+  "avatarUrl": "",
+  "socialLinks": [
+    {
+      "icon": "fab fa-github",
+      "url": "https://github.com/KushagraSikka",
+      "label": "GitHub"
+    },
+    {
+      "icon": "fas fa-envelope",
+      "url": "mailto:patel.pooja81599@gmail.com",
+      "label": "Email"
+    }
+  ],
+  "techBadges": [
+    {
+      "icon": "fab fa-python",
+      "label": "Python"
+    },
+    {
+      "icon": "fas fa-code",
+      "label": "R"
+    },
+    {
+      "icon": "fas fa-database",
+      "label": "SQL"
+    },
+    {
+      "icon": "fas fa-code",
+      "label": "Pandas"
+    },
+    {
+      "icon": "fas fa-code",
+      "label": "NumPy"
+    },
+    {
+      "icon": "fas fa-code",
+      "label": "ggplot2"
+    },
+    {
+      "icon": "fas fa-code",
+      "label": "ggmap"
+    },
+    {
+      "icon": "fas fa-code",
+      "label": "leaflet"
+    }
+  ],
+  "terminalCommands": {
+    "about": {
+      "title": "About Me",
+      "content": "Data Science Graduate with 3+ years of experience building scalable web applications.",
+      "highlights": [
+        "Working with Python",
+        "Working with R",
+        "Working with SQL"
+      ]
+    },
+    "skills": [
+      "Python",
+      "R",
+      "SQL",
+      "Pandas",
+      "NumPy",
+      "ggplot2",
+      "ggmap",
+      "leaflet",
+      "Excel",
+      "Tableau",
+      "Power BI",
+      "RStudio",
+      "Data Analysis",
+      "Statistical Modeling",
+      "Data Mining",
+      "Data Wrangling"
+    ],
+    "experience": [
+      {
+        "company": "Beverly Hills Supermarket and Liquor",
+        "title": "Cashier",
+        "period": "June 2024 - May 2025",
+        "location": ""
+      },
+      {
+        "company": "Solomon Edwards (PennyMac)",
+        "title": "Data Analyst",
+        "period": "August 2024 - April 2025",
+        "location": ""
+      },
+      {
+        "company": "Accenture",
+        "title": "Technical Support Specialist",
+        "period": "May 2021 - April 2023",
+        "location": ""
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelors of Science",
+        "institution": "University of Houston Downtown",
+        "period": "August 2021 – May 2024"
+      },
+      {
+        "degree": "Associate",
+        "institution": "Houston Community College",
+        "period": "August 2018- May 2021"
+      }
+    ],
+    "contact": {
+      "email": "patel.pooja81599@gmail.com",
+      "website": "",
+      "github": "github.com/KushagraSikka",
+      "linkedin": ""
+    }
+  },
+  "terminalLines": [
+    "$ whoami",
+    "POOJA PATEL",
+    "$ cat role.txt",
+    "Data Science Graduate",
+    "$ ls skills/",
+    "Python  R  SQL  Pandas  NumPy"
+  ]
+}

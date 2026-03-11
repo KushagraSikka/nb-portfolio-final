@@ -1,0 +1,36 @@
+{
+  "brandName": "POOJA PATEL",
+  "brandTitle": "Data Science Graduate",
+  "navLinks": [
+    {
+      "label": "Home",
+      "href": "#hero"
+    },
+    {
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    }
+  ],
+  "socialLinks": [
+    {
+      "icon": "fab fa-github",
+      "url": "https://github.com/KushagraSikka",
+      "label": "GitHub"
+    },
+    {
+      "icon": "fas fa-envelope",
+      "url": "mailto:patel.pooja81599@gmail.com",
+      "label": "Email"
+    }
+  ],
+  "copyright": "POOJA PATEL",
+  "year": "2026"
+}

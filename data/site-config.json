@@ -1,0 +1,32 @@
+{
+  "siteName": "POOJA PATEL | Data Science Graduate",
+  "theme": "light",
+  "loaderInitials": [
+    "P",
+    "P"
+  ],
+  "metaDescription": "POOJA PATEL — Data Science Graduate. Portfolio showcasing professional experience, skills, and projects.",
+  "metaKeywords": "POOJA PATEL, Data Science Graduate, Portfolio",
+  "progressCheckpoints": [
+    {
+      "id": "hero",
+      "label": "Home"
+    },
+    {
+      "id": "about",
+      "label": "About"
+    },
+    {
+      "id": "experience",
+      "label": "Journey"
+    },
+    {
+      "id": "skills",
+      "label": "Skills"
+    },
+    {
+      "id": "contact",
+      "label": "Contact"
+    }
+  ]
+}

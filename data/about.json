@@ -1,0 +1,44 @@
+{
+  "heading": "ABOUT",
+  "paragraphs": [
+    {
+      "text": "Data Science graduate with a strong background in statistical analysis, predictive modeling, and data visualization. Proficient in Python, R, SQL, Tableau, Power BI, and dashboard development, with hands-on experience analyzing large datasets, automating workflows, and improving decision-making in finance, cybersecurity, and business operations. Proven ability to streamline processes, enhance data accuracy, and deliver clear, actionable insights. Experienced project lead with strong communication, problem-solving, and collaboration skills.",
+      "highlights": []
+    },
+    {
+      "text": "Experienced data science graduate with {yearsExp} of hands-on experience across {industries}.",
+      "highlights": [
+        {
+          "text": "3+ years",
+          "color": "yellow",
+          "key": "yearsExp"
+        },
+        {
+          "text": "finance, cybersecurity, security",
+          "color": "pink",
+          "key": "industries"
+        }
+      ]
+    },
+    {
+      "text": "I bring a unique blend of {blend1}, {blend2}, and a genuine enthusiasm for {blend3}.",
+      "highlights": [
+        {
+          "text": "technical expertise",
+          "color": "yellow",
+          "key": "blend1"
+        },
+        {
+          "text": "collaborative leadership",
+          "color": "green",
+          "key": "blend2"
+        },
+        {
+          "text": "building impactful solutions",
+          "color": "cyan",
+          "key": "blend3"
+        }
+      ]
+    }
+  ]
+}
